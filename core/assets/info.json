@@ -1,0 +1,14 @@
+{
+   "songName":"The Avengers Theme Song",
+   "songSubName":"Marvel",
+   "authorName":"Vodka Chartreuse",
+   "beatsPerMinute":120,
+   "previewStartTime":12,
+   "previewDuration":10,
+   "coverImagePath":"cover.jpg",
+   "environmentName":"DefaultEnvironment",
+   "difficultyLevels":[{"difficulty":"Easy","difficultyRank":1,"audioPath":"The Avengers Theme Song.ogg","jsonPath":"Easy.json","offset":1,"oldOffset":1},
+{"difficulty":"Normal","difficultyRank":4,"audioPath":"The Avengers Theme Song.ogg","jsonPath":"Normal.json","offset":1,"oldOffset":1},
+{"difficulty":"Hard","difficultyRank":6,"audioPath":"The Avengers Theme Song.ogg","jsonPath":"Hard.json","offset":1,"oldOffset":1},
+{"difficulty":"Expert","difficultyRank":8,"audioPath":"The Avengers Theme Song.ogg","jsonPath":"Expert.json","offset":1,"oldOffset":1},
+{"difficulty":"ExpertPlus","difficultyRank":10,"audioPath":"The Avengers Theme Song.ogg","jsonPath":"ExpertPlus.json","offset":1,"oldOffset":1}]}
