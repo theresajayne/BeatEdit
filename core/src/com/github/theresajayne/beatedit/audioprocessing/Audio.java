@@ -18,8 +18,9 @@ public class Audio {
         byte[] rawAudio = byteBuffer.array();
     }
 
-    public Music getTrack()
+    public Music getTrack(String name)
     {
+        track = Gdx.audio.newMusic(Gdx.files.internal(name));
         return track;
     }
 
